@@ -1,0 +1,6 @@
+body {
+    background-image: url('../Fondo.jpeg');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Fija la imagen en su posición mientras se desplaza la página */
+  }

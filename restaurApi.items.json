@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "654dd63116dc429c7db4c37b"
+  },
+  "name": "Delicias del Mar",
+  "description": "Un rincón encantador con exquisitos sabores marinos",
+  "location": {
+    "country": "Costa Rica",
+    "state": "Puntarenas Province",
+    "city": "Quepos"
+  },
+  "cuisine": "Comida Mediterránea",
+  "coordinates": {
+    "latitude": 9.4237,
+    "longitude": -84.1644
+  },
+  "hoursOfOperation": {
+    "monday": "11:00 AM - 9:00 PM",
+    "tuesday": "11:00 AM - 9:00 PM",
+    "wednesday": "11:00 AM - 9:00 PM",
+    "thursday": "11:00 AM - 9:00 PM",
+    "friday": "11:00 AM - 9:00 PM",
+    "saturday": "12:00 PM - 10:00 PM",
+    "sunday": "Closed"
+  },
+  "menu": [
+    {
+      "name": "Parrillada de Mariscos",
+      "description": "Una mezcla exquisita de mariscos frescos a la parrilla",
+      "price": 22.99,
+      "image": "https://salroche.com/cdn/shop/articles/Parrillada-de-mariscos2.jpg?v=1575333992",
+      "_id": {
+        "$oid": "654e77ae7d7d3cdc874d1ad4"
+      }
+    }
+  ],
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/fc/0a/a8/delicias-del-mar.jpg",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-11-10T07:05:21.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T18:34:22.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e82017d7d3cdc874d1af4"
+  },
+  "name": "Sabores Exquisitos",
+  "description": "Descubre una experiencia culinaria única con nuestra cocina innovadora.",
+  "location": {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Luis Río Colorado"
+  },
+  "cuisine": "Fusión Internacional",
+  "coordinates": {
+    "latitude": 9.9367,
+    "longitude": -84.1457
+  },
+  "hoursOfOperation": {
+    "monday": "12:00 PM - 8:30 PM",
+    "tuesday": "12:00 PM - 8:30 PM",
+    "wednesday": "12:00 PM - 8:30 PM",
+    "thursday": "12:00 PM - 8:30 PM",
+    "friday": "1:00 PM - 10:00 PM",
+    "saturday": "2:00 PM - 10:00 PM",
+    "sunday": "0"
+  },
+  "menu": [
+    {
+      "name": "Sushi Fusion",
+      "description": "Variedad de rollos de sushi con sabores únicos y frescos",
+      "price": 22.99,
+      "image": "https://telemaki.com/blog/assets/uploads/2022/04/sushi-fusion.jpg",
+      "_id": {
+        "$oid": "654e82017d7d3cdc874d1af5"
+      }
+    }
+  ],
+  "image": "https://www.cecyvaldezdailystyle.com/wp-content/uploads/2023/10/ENTRADA-29.png",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-11-10T19:18:25.939Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T19:18:25.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654ed3fd7d7d3cdc874d1b65"
+  },
+  "name": "Koi Negro",
+  "description": "Un lujoso restaurante de comida urbana",
+  "location": {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Luis Río Colorado"
+  },
+  "cuisine": "Comida urbana",
+  "coordinates": {
+    "latitude": 9,
+    "longitude": -10
+  },
+  "hoursOfOperation": {
+    "monday": "9:00 - 10:00",
+    "tuesday": "9:00 -10:00",
+    "wednesday": "9:00 -  10:00",
+    "thursday": "9:00  - 10:00",
+    "friday": "9:00 -10:00",
+    "saturday": "9:00 -10:00",
+    "sunday": "0"
+  },
+  "menu": [
+    {
+      "name": "Carne Asada",
+      "description": "Carne asada",
+      "price": 100,
+      "image": "https://laroussecocina.mx/wp-content/uploads/2018/01/Carne-asada.jpg.webp",
+      "_id": {
+        "$oid": "654ed3fd7d7d3cdc874d1b66"
+      }
+    }
+  ],
+  "image": "https://img.freepik.com/fotos-premium/pez-carpa-koi-negro-brillante-aletas-ardientes-nada-agua-generacion-ai-boca-brillante_904009-270.jpg?w=2000",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-11-11T01:08:13.422Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-11T01:08:13.422Z"
+  }
+}]
